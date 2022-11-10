@@ -9,6 +9,9 @@
 .room-image {
     max-width: 50%;
 }
+.notie-container{
+    box-shadow: none;
+}
 .datepicker {
-    z-index: 100000;
+    z-index: 10000;
 }
